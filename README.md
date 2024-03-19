@@ -1,5 +1,5 @@
 - 🐱 This is awa_Liny the cat.
-- 🌈 Liny has her own blog → ["Meow"](http://120.26.192.78/)
+- 🌈 Liny has her own blog → [Meow](http://120.26.192.78/)
 - 🌱 Liny's currently learning Java.
 - 📫 Send Emails to → wait for a moment... :P
 - ⚡ Fun fact: Liny loves to meow no matter what she's doing or who she's meeting with.
